@@ -1,0 +1,34 @@
+{
+  "pokemons": [
+    {
+      "id": 1,
+      "name": "Chamander",
+      "type": "Fuego"
+    },
+    {
+      "id": 2,
+      "name": "Bulbasaur",
+      "type": "Planta"
+    },
+    {
+      "id": 3,
+      "name": "Squirtle",
+      "type": "Agua"
+    },
+    {
+      "id": 4,
+      "name": "Pikachu",
+      "type": "Electrico"
+    },
+    {
+      "id": 1634951138583,
+      "name": "Axew",
+      "type": "Dragón"
+    },
+    {
+      "id": 1635049721051,
+      "name": "Oshawott",
+      "type": "Agua"
+    }
+  ]
+}
